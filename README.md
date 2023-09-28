@@ -1,3 +1,6 @@
+# Note
+This repo is based on the original repo at [https://github.com/mchiquier](https://github.com/mchiquier/musclesinaction)
+
 # Muscles in Action (ICCV 2023)
 
 Code and pre-trained models for the Muscles in Action ICCV 2023 paper. 
